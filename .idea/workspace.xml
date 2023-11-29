@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f991363-f49b-4fb5-8d80-5c5b6aa7a296" name="Changes" comment="Nowa metoda Policz" />
+    <list default="true" id="1f991363-f49b-4fb5-8d80-5c5b6aa7a296" name="Changes" comment="Zmiana dodawania na mnożenie w metodzie Policz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +37,20 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ArtemLehotskyy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1b79235b-0000-42d2-b2ba-dd546bcfa8e7" />
+        <option name="url" value="https://github.com/ArtemLehotskyy/OU_Test_01.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -82,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701267590217</updated>
-      <workItem from="1701267591370" duration="382000" />
+      <workItem from="1701267591370" duration="528000" />
     </task>
     <task id="LOCAL-00001" summary="Nowa metoda Policz">
       <option name="closed" value="true" />
@@ -124,7 +138,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701267959713</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Zmiana dodawania na mnożenie w metodzie Policz">
+      <option name="closed" value="true" />
+      <created>1701268033421</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701268033421</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Zmiana dodawania na mnożenie w metodzie Policz">
+      <option name="closed" value="true" />
+      <created>1701268117468</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701268117468</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +191,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nowa metoda Policz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nowa metoda Policz" />
+    <MESSAGE value="Zmiana dodawania na mnożenie w metodzie Policz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zmiana dodawania na mnożenie w metodzie Policz" />
   </component>
 </project>
