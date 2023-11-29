@@ -9,16 +9,18 @@
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="OU_Test_01_" targetName="OU_Test_01_" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f991363-f49b-4fb5-8d80-5c5b6aa7a296" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/OU_Test_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OU_Test_01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="1f991363-f49b-4fb5-8d80-5c5b6aa7a296" name="Changes" comment="Nowa metoda Policz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +29,13 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="01" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -47,6 +55,10 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "last_opened_file_path": "C:/Users/student/CLionProjects/OU_Test_01/CMakeLists.txt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,12 +82,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701267590217</updated>
-      <workItem from="1701267591370" duration="74000" />
+      <workItem from="1701267591370" duration="382000" />
     </task>
+    <task id="LOCAL-00001" summary="Nowa metoda Policz">
+      <option name="closed" value="true" />
+      <created>1701267729921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701267729921</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Nowa metoda Policz">
+      <option name="closed" value="true" />
+      <created>1701267743901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701267743901</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Nowa metoda Policz">
+      <option name="closed" value="true" />
+      <created>1701267923996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701267923996</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Nowa metoda Policz">
+      <option name="closed" value="true" />
+      <created>1701267931742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701267931742</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Nowa metoda Policz">
+      <option name="closed" value="true" />
+      <created>1701267959713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701267959713</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -88,7 +147,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="01" />
+                        <option value="02" />
                       </list>
                     </value>
                   </entry>
@@ -99,5 +158,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nowa metoda Policz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nowa metoda Policz" />
   </component>
 </project>
